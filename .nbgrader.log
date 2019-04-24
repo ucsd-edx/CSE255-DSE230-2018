@@ -1,0 +1,39 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work/Sections
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] 302 GET / (172.17.0.1) 0.88ms
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Section4-Classification/Visualization/Decision_Tree_Visualize.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 3aaa2ccd-26bf-4483-85ee-482a897c7956
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180520213533 (172.17.0.1) 18.90ms referer=http://localhost:8888/notebooks/Section4-Classification/Visualization/Decision_Tree_Visualize.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 3aaa2ccd-26bf-4483-85ee-482a897c7956
+[NotebookApp | INFO] Saving file at /Section4-Classification/Visualization/Decision_Tree_Visualize.ipynb
+[NotebookApp | WARNING] Notebook Section4-Classification/Visualization/Decision_Tree_Visualize.ipynb is not trusted
+[NotebookApp | INFO] Starting buffering for 3aaa2ccd-26bf-4483-85ee-482a897c7956:c1bff2ea73b84a0c8030c0a8485eb750
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/jovyan/work
+[NotebookApp | INFO] 0 active kernels
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://[all ip addresses on your system]:8888/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Writing notebook-signing key to /home/jovyan/.local/share/jupyter/notebook_secret
+[NotebookApp | WARNING] Notebook Section4-Classification/XGBoost/Data_Processing_Whales.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: d2b15542-f5ec-461a-98e9-0f8b2887aeee
+[NotebookApp | INFO] 302 GET /notebooks/Section4-Classification/XGBoost/intro.jpg (172.17.0.1) 6.21ms
+[NotebookApp | INFO] 302 GET /notebooks/Section4-Classification/XGBoost/Cuv_Ger.jpg (172.17.0.1) 4.83ms
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180612164932 (172.17.0.1) 12.41ms referer=http://localhost:8888/notebooks/Section4-Classification/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel d2b15542-f5ec-461a-98e9-0f8b2887aeee
+[NotebookApp | INFO] Saving file at /Section4-Classification/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | WARNING] Notebook Section4-Classification/XGBoost/XGBoost_Whales.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /static/components/bootstrap/js/tooltip.js?v=20180612164932 (172.17.0.1) 1.66ms referer=http://localhost:8888/notebooks/Section4-Classification/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Kernel started: 8608ac5a-2542-4058-9847-618ed5e7223d
+[NotebookApp | INFO] Adapting to protocol v5.1 for kernel 8608ac5a-2542-4058-9847-618ed5e7223d
+[NotebookApp | INFO] Saving file at /Section4-Classification/XGBoost/Data_Processing_Whales.ipynb
+[NotebookApp | INFO] Saving file at /Section4-Classification/XGBoost/XGBoost_Whales.ipynb
+[NotebookApp | INFO] Starting buffering for 8608ac5a-2542-4058-9847-618ed5e7223d:1d2a1fbe54fa45869406258f7c28b2e2
+[NotebookApp | INFO] Starting buffering for d2b15542-f5ec-461a-98e9-0f8b2887aeee:57123f2d096b45638684857c5f1df4f1
