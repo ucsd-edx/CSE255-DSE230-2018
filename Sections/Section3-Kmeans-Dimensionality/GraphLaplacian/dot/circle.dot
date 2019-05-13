@@ -1,0 +1,11 @@
+graph G {
+0 [style=filled];
+1 [style=filled];
+2 [style=filled];
+3 [style=filled];
+4 [style=filled];
+5 [style=filled];
+6 [style=filled];
+7 [style=filled];
+0--1--2--3--4--5--6--7--0;
+}

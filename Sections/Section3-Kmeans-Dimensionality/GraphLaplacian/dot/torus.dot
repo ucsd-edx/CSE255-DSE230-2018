@@ -1,0 +1,28 @@
+graph G {
+0 [style=filled];
+1 [style=filled];
+2 [style=filled];
+3 [style=filled];
+4 [style=filled];
+5 [style=filled];
+6 [style=filled];
+7 [style=filled];
+8 [style=filled];
+9 [style=filled];
+10 [style=filled];
+11 [style=filled];
+12 [style=filled];
+13 [style=filled];
+14 [style=filled];
+15 [style=filled];
+
+
+0--1--2--3--0;
+4--5--6--7--4;
+8--9--10--11--8;
+12--13--14--15--12;
+0--4--8--12--0;
+1--5--9--13--1;
+2--6--10--14--2;
+3--7--11--15--3;
+}

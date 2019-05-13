@@ -1,0 +1,27 @@
+graph G {
+0 [style=filled];
+1 [style=filled];
+2 [style=filled];
+3 [style=filled];
+4 [style=filled];
+5 [style=filled];
+6 [style=filled];
+7 [style=filled];
+8 [style=filled];
+9 [style=filled];
+10 [style=filled];
+11 [style=filled];
+12 [style=filled];
+13 [style=filled];
+14 [style=filled];
+15 [style=filled];
+16 [style=filled];
+17 [style=filled];
+18 [style=filled];
+19 [style=filled];
+20 [style=filled];
+21 [style=filled];
+22 [style=filled];
+23 [style=filled];
+0--1--2--3--4--5--6--7--8--9--10--11--12--13--14--15--16--17--18--19--20--21--22--23;
+}
